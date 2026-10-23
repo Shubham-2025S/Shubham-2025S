@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00BCD4&height=220&section=header&text=Shubham Singh&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing&descSize=16&descColor=8b949e&descAlignY=55" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00BCD4&height=220&section=header&text=Shubham_Singh&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing&descSize=16&descColor=8b949e&descAlignY=55" width="100%">
 
 <div align="center">
 
